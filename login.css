@@ -121,5 +121,8 @@ input {
     div.right-side{
         margin-left: 60px;
     }
+    .container {
+        flex-wrap: wrap;
+    }
   }
 
