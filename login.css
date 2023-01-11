@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    background-color: pink;
+    border: 2px solid white;
+}
+
+
+.left-side {
+    background-color: #A06DF2;
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-side img {
+    width: 378px;
+    height: 358px;
+}
+.right-side {
+   width: 65%;
+}
